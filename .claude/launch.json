@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "cabinet-hamoud",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/.claude/serve-cabinet-hamoud.mjs",
+      "port": 4385
+    }
+  ]
+}
